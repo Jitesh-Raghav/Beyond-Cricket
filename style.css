@@ -1,6 +1,6 @@
 @font-face {
     font-family: "montserrat";
-    src: url('Montserrat/Montserrat-Black.ttf');
+    src: url('Montserrat/Montserrat-Black.woff2');
 }
 
 * {
@@ -228,15 +228,15 @@
     transition: all ease 0.3s;
 }
 #card1{
-    background-image: url("rank.jpg");
+    background-image: url("rank.webp");
    
 }
 #card2{
-    background-image: url("india.jpg");
+    background-image: url("india.webp");
     background-size: contain;
 }
 #card3{
-    background-image: url("shop.jpg");
+    background-image: url("shop.webp");
     background-size: contain;
 }
 
