@@ -113,8 +113,8 @@ gsap.from("#page4 h1",{
         trigger:"#page4 h1", 
         scroller:"body", 
         // markers:true,
-        start:"top 65%", 
-        end:"top 40%", 
+        start:"top 82%", 
+        end:"top 45%", 
         scrub:1
     }
 })
