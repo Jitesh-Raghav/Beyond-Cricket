@@ -68,7 +68,7 @@ gsap.from("#about-us img, #about-us-in",{
 
 gsap.from(".card",{
     scale:0.8,
-    opacity:0,
+    opacity:0.5,
     duration:1,
     stagger:0.02,
     scrollTrigger:{
